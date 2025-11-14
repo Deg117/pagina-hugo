@@ -4,4 +4,8 @@ title = "Portafolio de Brian"
 theme = "ananke"
 
 [params]
-  description = "Mi sitio personal hecho con Hugo y GitHub Pages"
+  site_logo = ""
+  description = "Estudiante de Ibgenieria en Software — Portafolio personal"
+  background_color_class = "bg-black"
+  featured_image = "images/galaxy.jpg"
+  background_color_class = "bg-transparent"
