@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://deg117.github.io/pagina-hugo/"
+languageCode = "es-mx"
+title = "Portafolio de Brian"
 theme = "ananke"
+
+[params]
+  description = "Mi sitio personal hecho con Hugo y GitHub Pages"
