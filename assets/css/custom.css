@@ -1,0 +1,7 @@
+.hero {
+    background-image: url("/pagina-hugo/images/galaxy.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    min-height: 60vh !important;
+}

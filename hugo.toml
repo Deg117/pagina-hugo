@@ -5,6 +5,10 @@ theme = "ananke"
 
 [params]
   site_logo = ""
-  description = "Estudiante de Ibgenieria en Software — Portafolio personal"
+  description = "Estudiante de Ingeniería en Software — Portafolio personal"
+
   background_image = "images/galaxy.jpg"
+
   background_color_class = "bg-transparent"
+
+  custom_css = ["css/custom.css"]
