@@ -1,4 +1,4 @@
-baseURL = "https://deg117.github.io/pagina-hugo/"
+baseURL = "https://deg117.github.io/pagina/"
 languageCode = "es-mx"
 title = ""
 theme = "blowfish"
