@@ -1,14 +1,21 @@
 baseURL = "https://deg117.github.io/pagina/"
 languageCode = "es-mx"
-title = ""
+title = "Nomas"
 theme = "blowfish"
-
+ 
 defaultContentLanguage = "es"
 enableInlineShortcodes = true
 pluralizeListTitles = false
 
 [pagination]
   pagerSize = 10
+
+[params.article]
+  showReadingTime = false
+    
+[params.nav]
+  enabled = true
+
 
 [params]
   description = "Estudiante de Ingeniería en Software — Portafolio personal"
